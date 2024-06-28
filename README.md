@@ -17,6 +17,8 @@ The first approach is to use the concept behing of TF_ID Vectorizer. This is mer
 - Root Cause Analysis: Analyze anomalies to determine their root causes, providing insights into the underlying issues.
 - Visualization Tools: Generate visualizations, such as word clouds, to help interpret and communicate log analysis results.
 
+notebook: log_anomalies_detection_tfid_vectorizer.ipynb
+
 # 2.2 BERT Transformer
 
 - Introduce BERT and its capabilities.
@@ -30,3 +32,12 @@ The first approach is to use the concept behing of TF_ID Vectorizer. This is mer
 
 - Explain how to use TensorFlow Embedding Projector to visualize embeddings and detect anomalies.
 
+notebook: log_anomalies_detection_bert transformer.ipynb
+
+# 2.3 Autoencoders
+
+- Introduce AutoEncoders and its architecture.
+
+- Compare the performance between autoencoders and BERT Transformers.
+
+notebook: log_anomalies_detection_autoencoder.ipynb
